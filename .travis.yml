@@ -1,2 +1,2 @@
 install: curl https://install.meteor.com/ | sh
-script: meteor --test
+script: /usr/local/bin/meteor --test
